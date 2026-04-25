@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Do Minh Duc.
+- 👋 Hi, I’m Do Minh Duc (Duke).
+- 🎓 B.S. in Computer Science from Ho Chi Minh University of Technology (HCMUT).
+- 💻 I’m currently working as a Fullstack Software Engineer.
 - 👀 I’m interested in football ⚽
-- 🌱 I’m currently majoring in Computer Science at Ho Chi Minh University of Technology (HCMUT).
-- ⚡ Fun fact: I'm a Gooner 👀👀
+- ⚡ Fun fact: I'm a Gooner 🔴⚪
 - 📫 How to reach me:
   - Facebook: https://www.facebook.com/minhduc0503
   - Linkedin: https://www.linkedin.com/in/minhduc0503
